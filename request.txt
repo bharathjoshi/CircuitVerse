@@ -1,0 +1,6 @@
+Features I wanted to add :
+  1) List of people who have visited a certain project.
+  2) Enabling users to visit other user's profile when they click on the user's name.(Don't know whether this feature exists or no, but as far as I tried, I was unable to do it)
+  3) Having a pop up or something of that sort which informs the user that Public Project can be seen by everyone .(Though one needs to know that explicitly , informing them for the first time would increase their trust on the website) 
+  
+ P.S : I have no knowledge on how to all this, but believe I have interest and time to do them. Please correct me if this is the wrong way to send a message as pull request.
